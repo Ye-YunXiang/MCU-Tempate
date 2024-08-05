@@ -1,0 +1,18 @@
+Dependencies for Project 'Project', Target 'Project': (DO NOT MODIFY !)
+F (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Source/Templates/arm/startup_stm32l053xx.s)(0x54D36C8A)(--cpu Cortex-M0+ -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_Project-IC:\Users\11983\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\11983\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.0.1\Drivers\CMSIS\Device\ST\STM32L0xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32L053xx SETA 1"--list startup_stm32l053xx.lst --xref -o project\startup_stm32l053xx.o --depend project\startup_stm32l053xx.d)
+F (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Source/Templates/system_stm32l0xx.c)(0x54D36C8A)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../ -I ../../../../Drivers/CMSIS/Include -I ../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include --C99-I.\RTE\_Project-IC:\Users\11983\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\11983\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.0.1\Drivers\CMSIS\Device\ST\STM32L0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L053xx -DSTM32L053xx-o project\system_stm32l0xx.o --omf_browse project\system_stm32l0xx.crf --depend project\system_stm32l0xx.d)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x54D36D51)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l053xx.h)(0x54D36C8A)
+I (../../../../Drivers/CMSIS/Include/core_cm0plus.h)(0x544536D2)
+I (D:\Software\KEIL5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (../../../../Drivers/CMSIS/Include/core_cmInstr.h)(0x544536D2)
+I (../../../../Drivers/CMSIS/Include/core_cmFunc.h)(0x544536D2)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x54D36C8A)
+F (../main.c)(0x56B4B332)(-c --cpu Cortex-M0+ -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../ -I ../../../../Drivers/CMSIS/Include -I ../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include --C99-I.\RTE\_Project-IC:\Users\11983\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\11983\AppData\Local\Arm\Packs\Keil\STM32L0xx_DFP\2.0.1\Drivers\CMSIS\Device\ST\STM32L0xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32L053xx -DSTM32L053xx-o project\main.o --omf_browse project\main.crf --depend project\main.d)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h)(0x54D36D51)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l053xx.h)(0x54D36C8A)
+I (../../../../Drivers/CMSIS/Include/core_cm0plus.h)(0x544536D2)
+I (D:\Software\KEIL5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (../../../../Drivers/CMSIS/Include/core_cmInstr.h)(0x544536D2)
+I (../../../../Drivers/CMSIS/Include/core_cmFunc.h)(0x544536D2)
+I (../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/system_stm32l0xx.h)(0x54D36C8A)
